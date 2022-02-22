@@ -20,7 +20,7 @@
 </p>
 <h2 aling="left"># Sobre mim </h2>
 <p aling="left" color="grey" font-size="20px">
-    # Eu sou Cleomar Schmitzhaus. <br />Nascido no Brasil, no oeste Catarinense em uma cidade do interior chamada Palmitos. Hoje eu moro em Teutônia, RS e trabalho com infraestrutura de TI e atualmente estou estudando programação.
+    # Eu sou Cleomar Schmitzhaus. <br /># Nascido no Brasil, no oeste Catarinense em uma cidade do interior chamada Palmitos. Hoje eu moro em Teutônia, RS e trabalho com infraestrutura de TI e atualmente estou estudando programação.
     Participei na organização de eventos de Software livre como TchêLinux e sou cofundador do grupo de entusiasta de tecnologia <a href="https://fossday.org">fossday.org</a>.
     Sou baixista da banda de death metal autoral <a href="http://www.atropina.com.br">Atropina</a>.
     Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Jenkins.
