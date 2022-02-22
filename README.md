@@ -25,7 +25,7 @@
     Sou baixista da banda de death metal autoral <a href="http://www.atropina.com.br">Atropina</a>.
     Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Jenkins.
 </p>
-<p>
+<p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
