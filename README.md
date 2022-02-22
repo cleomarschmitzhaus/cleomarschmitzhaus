@@ -30,6 +30,6 @@
     <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 <p align="center" color="grey">
-    Based on <a href="https://github.com/tomkiel">Tomkiel</a> Profile. <br />
-    Thanks :)
+    Baseado no perfil de <a href="https://github.com/tomkiel">Tomkiel</a>.<br />
+    Obrigado :)
 </p>
