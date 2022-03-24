@@ -21,9 +21,10 @@
 <h2 aling="left"># Sobre mim </h2>
 <p aling="left" color="grey" font-size="20px">
     # Eu sou Cleomar Schmitzhaus. <br /># Morando em Teutônia - RS<br />
-    # Trabalho com infraestrutura de TI e atualmente estou estudando programação. Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Jenkins.<br />
-    Participo na organização de eventos de Software livre como TchêLinux e sou cofundador do grupo de entusiasta de tecnologia. <a href="https://fossday.org">fossday.org</a>.<br />
-    Sou baixista da banda de death metal autoral <a href="http://www.atropina.com.br">Atropina</a>.
+    # Trabalho com infraestrutura de TI e atualmente estou estudando programação. <br />
+    # Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Jenkins.<br />
+    # Participo na organização de eventos de Software livre como TchêLinux e sou cofundador do grupo de entusiasta de tecnologia. <a href="https://fossday.org">fossday.org</a>.<br />
+    # Baixista da banda de death metal autoral <a href="http://www.atropina.com.br">Atropina</a>.
 </p>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
