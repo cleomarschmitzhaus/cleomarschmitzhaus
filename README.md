@@ -20,7 +20,7 @@
 </p>
 <h2 aling="left"># Sobre mim </h2>
 <p aling="left" color="grey" font-size="20px">
-    # Eu sou Cleomar Schmitzhaus. <br /># Morando em Teutônia - RS<br />
+    # Cleomar Schmitzhaus. <br /># Morando em Teutônia - RS<br />
     # Trabalho com infraestrutura de TI e atualmente estou estudando programação. <br />
     # Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Jenkins.<br />
     # Participo na organização de eventos de Software livre como TchêLinux e sou cofundador do grupo de entusiasta de tecnologia. <a href="https://fossday.org">fossday.org</a>.<br />
