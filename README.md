@@ -21,8 +21,8 @@
 <h2 aling="left"># Sobre mim </h2>
 <p aling="left" color="grey" font-size="20px">
     # Cleomar Schmitzhaus. <br /># Morando em Teutônia - RS<br />
-    # Trabalho com infraestrutura de TI e atualmente estou estudando programação. <br />
-    # Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Jenkins.<br />
+    # Trabalho com infraestrutura de TI e atualmente estou estudando automação e programação. <br />
+    # Tenho interesse nas seguintes tecnologias: Git, Python, C#, Linux, Docker, Vagrant, Ansible, Jenkins.<br />
     # Participo na organização de eventos de Software livre como TchêLinux e sou cofundador do grupo de entusiasta de tecnologia. <a href="https://fossday.org">fossday.org</a>.<br />
     # Baixista da banda de death metal autoral <a href="http://www.atropina.com.br">Atropina</a>.
 </p>
@@ -30,7 +30,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-    <img alt="Mint" src="https://img.shields.io/badge/Linux_Fedora-3e8ccf?style=for-the-badge&logo=linux-fedora&logoColor=white"/>
+    <img alt="Fedora" src="https://img.shields.io/badge/Linux_Fedora-3e8ccf?style=for-the-badge&logo=linux-fedora&logoColor=white"/>
     <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
